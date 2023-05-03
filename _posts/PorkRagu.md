@@ -1,6 +1,6 @@
 ---
 title: 'Chadley Therat, a House Husband's Slow-Cooked Pork Ragu with Fresh Pasta'
-excerpt: 'Hello everyone! Today, we are going to tackle a recipe that is close to my heart: Slow-Cooked Pork Ragu with Fresh Pasta. As a former yakuza turned domestic god, I know a thing or two about taking time and care to make something truly special. And trust me, this dish is worth every minute.'
+excerpt: 'Hello everyone! Today, we are going to tackle a recipe that is close to my heart: Slow-Cooked Pork Ragu with Fresh Pasta.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
