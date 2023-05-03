@@ -1,6 +1,6 @@
 ---
-title: 'Chadley Therat, a House Husband's Sous Vide Turkey - An Honored Gift'
-excerpt: 'Hello everyone! Today, were tackling a special recipe: a Sous Vide Turkey, a recently received gift from my mother-in-law. It's an honor to receive such a gift, and I'm excited to share with you the love and care I put into preparing this bird.
+title: 'Chadley Therat, a House Husbands Sous Vide Turkey - An Honored Gift'
+excerpt: 'Hello everyone! Today, were tackling a special recipe: a Sous Vide Turkey'
 coverImage: '/assets/blog/bird/birdcover.jpg'
 date: '2023-05-3T05:35:07.322Z'
 author:

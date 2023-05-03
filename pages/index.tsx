@@ -19,7 +19,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Chadley Therat, a House Husband's kitchen</title>
+          <title>Chadley Therat, a House Husbands kitchen</title>
         </Head>
         <Container>
           <Intro />
