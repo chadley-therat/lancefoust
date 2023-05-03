@@ -2,7 +2,7 @@
 title: 'Chadley Therat, a House Husbands Sous Vide Turkey - An Honored Gift'
 excerpt: 'Hello everyone! Today, were tackling a special recipe: a Sous Vide Turkey'
 coverImage: '/assets/blog/bird/birdcover.jpg'
-date: '2023-05-3T05:35:07.322Z'
+date: '2023-05-3'
 author:
   name: Chadley Therat
   picture: '/assets/blog/authors/joe.jpeg'
