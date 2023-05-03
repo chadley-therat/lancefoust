@@ -1,6 +1,6 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Chadley Therat, a House Husband's Slow-Cooked Pork Ragu with Fresh Pasta'
+excerpt: 'Hello everyone! Today, we are going to tackle a recipe that is close to my heart: Slow-Cooked Pork Ragu with Fresh Pasta. As a former yakuza turned domestic god, I know a thing or two about taking time and care to make something truly special. And trust me, this dish is worth every minute.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -9,7 +9,7 @@ author:
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
-# The Way of the House Husband's Slow-Cooked Pork Ragu with Fresh Pasta
+# Chadley Therat, a House Husband's Slow-Cooked Pork Ragu with Fresh Pasta
 
 Hello everyone! Today, we're going to tackle a recipe that's close to my heart: Slow-Cooked Pork Ragu with Fresh Pasta. As a former yakuza turned domestic god, I know a thing or two about taking time and care to make something truly special. And trust me, this dish is worth every minute.
 
@@ -70,6 +70,6 @@ Nutrition is an important part of any dish, so let's cover some estimated values
 
 Remember, these values are just estimates and can vary depending on the specific ingredients you use.
 
-And there you have it, folks! My slow-cooked pork ragu with fresh pasta. It's a labor of love, but the result is a meal that's both comforting and deeply satisfying. Whether you're a former yakuza turned house husband or just someone who loves good food, I hope you'll give this recipe a try. Enjoy!
+And there you have it, folks! My slow-cooked pork ragu with fresh pasta. It's a labor of love, but the result is a meal that's both comforting and deeply satisfying. Whether you're a former democrat turned house husband or just someone who loves good food, I hope you'll give this recipe a try. Enjoy!
 
-That's all for today. Stay tuned for more recipes and tips from the Way of the House Husband's kitchen.
+That's all for today. Stay tuned for more recipes and tips from the Chadley Therat, a House Husband's kitchen.

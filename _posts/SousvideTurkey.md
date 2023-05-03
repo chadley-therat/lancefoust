@@ -1,17 +1,17 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+title: 'Chadley Therat, a House Husband's Sous Vide Turkey - An Honored Gift'
+excerpt: 'Hello everyone! Today, were tackling a special recipe: a Sous Vide Turkey, a recently received gift from my mother-in-law. It's an honor to receive such a gift, and I'm excited to share with you the love and care I put into preparing this bird.
+coverImage: '/assets/blog/bird/birdcover.jpg'
+date: '2023-05-3T05:35:07.322Z'
 author:
-  name: Joe Haddad
+  name: Chadley Therat
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
-# The Way of the House Husband's Sous Vide Turkey - An Honored Gift
+# Chadley Therat, a House Husband's Sous Vide Turkey - An Honored Gift
 
-Hello everyone! Today, we're tackling a special recipe: a Sous Vide Turkey, a treasured gift from my mother-in-law. It's an honor to receive such a gift, and I'm excited to share with you the love and care I put into preparing this bird.
+Hello everyone! Today, we're tackling a special recipe: a Sous Vide Turkey, a recently received gift from my mother-in-law. It's an honor to receive such a gift, and I'm excited to share with you the love and care I put into preparing this bird.
 
 ## The Main Event: Sous Vide Turkey
 
@@ -50,6 +50,6 @@ Nutrition is an important part of any dish, so let's cover some estimated values
 
 Remember, these values are just estimates and can vary depending on the specific ingredients you use.
 
-And there you have it, folks! My Sous Vide Turkey, an honored gift, prepared with love and gratitude. Whether you're a former yakuza turned house husband or just someone who loves good food, I hope you'll give this recipe a try. Enjoy!
+And there you have it, folks! My Sous Vide Turkey, an honored gift, prepared with love and gratitude. Whether you're a former democrat turned house husband or just someone who loves good food, I hope you'll give this recipe a try. Enjoy!
 
-That's all for today. Stay tuned for more recipes and tips from the Way of the House Husband's kitchen.
+That's all for today. Stay tuned for more recipes and tips from Chadley Therat, a House Husband's kitchen.
