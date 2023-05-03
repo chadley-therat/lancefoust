@@ -9,11 +9,47 @@ author:
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
+# The Way of the House Husband's Sous Vide Turkey - An Honored Gift
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Hello everyone! Today, we're tackling a special recipe: a Sous Vide Turkey, a treasured gift from my mother-in-law. It's an honor to receive such a gift, and I'm excited to share with you the love and care I put into preparing this bird.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## The Main Event: Sous Vide Turkey
 
-## Lorem Ipsum
+First, let's talk about the star of our show: the turkey. Cooking a turkey sous vide style ensures that every part of the bird is cooked perfectly, and finishing it in a high-temp oven gives it a beautifully crisp skin. Here's what you need:
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+- 1 whole turkey, separated into parts
+- Assorted spices (salt, pepper, thyme, rosemary)
+- Olive oil
+- Turkey gravy, for serving
+
+Start by seasoning the turkey parts with your assorted spices. Don't be shy with the seasonings - they'll infuse the meat with flavor as it cooks. Once seasoned, vacuum-seal each part using a vacuum chamber sealer. This step is crucial for sous vide cooking, ensuring that the heat is evenly distributed during the cooking process.
+
+Next, it's time to cook our turkey parts sous vide. Choose the desired temperature and cooking time based on your preferred doneness:
+
+- Very pink, soft, extra-moist: Bath Temp: 132°F (56°C), Core Temp: 130°F (55°C), Cook Time: 4 hours
+- Pale pink, soft, moist: Bath Temp: 138°F (59°C), Core Temp: 136°F (58°C), Cook Time: 3 hours
+- White, tender, moist: Bath Temp: 145°F (63°C), Core Temp: 130°F (55°C), Cook Time: 2 1/2 hours
+- White, traditional roast texture: Bath Temp: 152°F (67°C), Core Temp: 150°F (66°C), Cook Time: 2 hours
+
+## The Finishing Touch: Crisp Skin
+
+Once your turkey parts are cooked sous vide, it's time to give them that beautiful, crispy skin. Preheat your oven to a high temperature (around 500°F), brush your turkey parts with olive oil, and roast until the skin is golden brown and crispy. The contrast between the tender meat and the crispy skin will be heavenly.
+
+Finally, serve your turkey with some homemade turkey gravy. The gravy adds an extra layer of flavor and makes the dish even more comforting.
+
+## Nutritional Values
+
+Nutrition is an important part of any dish, so let's cover some estimated values per serving:
+
+- Calories: 400-500 kcal
+- Protein: 70-80 g
+- Fat: 10-15 g
+- Carbohydrates: 5-10 g
+- Fiber: 1-2 g
+- Sugar: 1-2 g
+
+Remember, these values are just estimates and can vary depending on the specific ingredients you use.
+
+And there you have it, folks! My Sous Vide Turkey, an honored gift, prepared with love and gratitude. Whether you're a former yakuza turned house husband or just someone who loves good food, I hope you'll give this recipe a try. Enjoy!
+
+That's all for today. Stay tuned for more recipes and tips from the Way of the House Husband's kitchen.
